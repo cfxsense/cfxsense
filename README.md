@@ -10,7 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/status-building-000000?style=flat-square&labelColor=000000&color=ffffff" />
-<img src="https://komarev.com/ghpvc/?username=cfxsense&style=flat-square&color=000000&label=views" />
+<img src="https://komarev.com/ghpvc/?username=flawless&style=flat-square&color=000000&label=views" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ```
  > whoami
-   cfxsense — founder of Flawless
+   flawless — founder of Flawless
 
  > focus
    reverse engineering · native c++ · windows internals · tooling
@@ -107,10 +107,10 @@ Most of my time goes into **reverse engineering**, **low-level C++** and the too
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cfxsense&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=262626&border_radius=6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfxsense&layout=compact&count_private=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&border_color=262626&border_radius=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=flawless&show_icons=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&icon_color=ffffff&border_color=262626&border_radius=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flawless&layout=compact&count_private=true&bg_color=000000&title_color=ffffff&text_color=d4d4d4&border_color=262626&border_radius=6" />
 
-<img src="https://streak-stats.demolab.com?user=cfxsense&background=000000&border=262626&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=D4D4D4&dates=737373&border_radius=6" />
+<img src="https://streak-stats.demolab.com?user=flawless&background=000000&border=262626&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=D4D4D4&dates=737373&border_radius=6" />
 
 </div>
 
